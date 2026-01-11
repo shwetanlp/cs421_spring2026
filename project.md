@@ -3,8 +3,12 @@ layout: page
 title: Project
 permalink: /project/
 ---
+
 # Graduate Research Study: NLP Reproducibility Project
 
+**Details coming soon!**
+
+<!--
 ## Overview
 Graduate students will conduct a research reproducibility and evaluation project focused on replicating results from an existing NLP research paper (ACL/NAACL 2025).  
 The project can be done individually or in pairs. Deliverables include a reproducibility report, source code, and a presentation.
@@ -12,8 +16,8 @@ The project can be done individually or in pairs. Deliverables include a reprodu
 ## Project Guidelines
 - **Research Paper Selection**
   - Choose an ACL/NAACL 2025 NLP paper.
-  - Submit details in the provided [Excel sheet](https://docs.google.com/spreadsheets/d/1CtquSNFH247aRQMg06BF3eeoyOtgSdFO_kMil1Uls14/edit?usp=sharing) (first-come, first-served).
-  - Must follow the [NLP Reproducibility Checklist (Dodge et al., 2019)](https://aclanthology.org/2023.findings-acl.809.pdf).
+  - Submit details in the provided Excel sheet (first-come, first-served).
+  - Must follow the NLP Reproducibility Checklist (Dodge et al., 2019).
 
 - **Research Study**
   - Analyze the reproducibility of the selected paper.
@@ -30,10 +34,9 @@ The project can be done individually or in pairs. Deliverables include a reprodu
 
 ## Deadlines & Milestones
 - **Paper Selection**: September 22, 2025 (11:59 PM CST)
-- **Research Presentation**:
-  - Slides Due: November 25, 2025 (12:00 PM (Noon) CST)
-  - Presentations: November 25, 2025, December 2, and December 4, 2025
+- **Research Presentation**
+  - Slides Due: November 25, 2025 (12:00 PM CST)
+  - Presentations: November 25, December 2, and December 4, 2025
 - **Report Submission**: December 5, 2025
 - **Source Code Submission**: December 5, 2025
-
-
+-->
