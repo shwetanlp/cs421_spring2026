@@ -5,53 +5,58 @@ permalink: /policy/
 ---
 
 ## Gradescope Assignments  
-There will be **4 assignments** containing a mix of theoretical and coding questions.  
+There are **4 Gradescope assignments** with a mix of theoretical and coding questions (Python).  
+- The coding component focuses on implementing and evaluating NLP algorithms discussed in class.  
+- The written component focuses on analysis of the implemented methods.  
+- **Note:** The first Python assignment is **optional for graduate students**.
 
-- **Coding Component** (Python):  
-  - **80%** — Program functionality (implementation, model building, evaluation on metrics)  
-  - **20%** — Code quality (clean, well-written, well-designed)  
-
-- **Written Component**:  
-  - **70%** — Accuracy of content  
-  - **30%** — Clarity of explanation  
+**Grading:**  
+- **Coding Questions:**  
+  - **80%** — Program functionality (implementation, models, evaluation metrics)  
+  - **20%** — Code quality (clean, readable, well-designed code)  
+- **Written Questions:**  
+  - **70%** — Accuracy  
+  - **30%** — Clarity  
 
 ---
 
-## Projects  
-- Goal: Design and implement a simple NLP system using existing tools. More details will be shared later. 
-- Work is **done in pairs** (two undergrads or two grads, no mixed pairs).  
+## Quizzes  
+- **4 quizzes** covering lecture material  
+- Announced **one week in advance**  
+- Each quiz has **10 multiple-choice questions**  
+- **Best 3 out of 4 quizzes** count toward the final grade  
+
+---
+
+## Project *(Undergraduate Students Only)*  
+- Design and implement a **simple NLP system** using existing tools  
+- Work is **done in pairs**  
+- Project details and deliverables will be announced during the course  
 
 ---
 
 ## Research Study *(Graduate Students Only)*  
-Graduate students (and interested undergraduates) will conduct a **research reproducibility project** due the week before finals.  
-- Can be done individually or in pairs.  
-- If paired: submission must include a signed statement describing each student’s contribution.  
-
-**Breakdown:**  
-- **10%** — Presentation  
-- **20%** — Report  
-- **10%** — Source code  
-
----
-
-## Evaluation Principles  
-- Your grade is based on the **points you earn**, not on comparison with other students.  
-- There are **no quotas** for letter grades.  
-- Assessment is designed to be comprehensive, fair, and equitable.  
+Graduate students (and interested undergraduates) will conduct focused research on assigned NLP topics.  
+- Teams of **up to three students**  
+- Submission must include a **signed contribution statement** from all team members  
 
 ---
 
 ## Point Breakdown  
 
 ### Undergraduate Students  
-- **Assignments:** 50% (12.5% each)  
-- **Project:** 50% (25% each deliverable)  
+- **Assignments:** 40% (10% each)  
+- **Quizzes:** 15% (5% each)  
+- **Project:** 45% (22.5% per deliverable)  
+- **Attendance:** 5% (bonus points)  
 
 ### Graduate Students  
-- **Assignments:** 40% (10% each)  
-- **Project:** 20% (10% each deliverable)  
-- **Research Study:** 40% (10% presentation, 20% report, 10% code)  
+- **Assignments:** 30% (10% each)  
+- **Quizzes:** 15% (5% each)  
+- **Research Study:** 55%  
+  - 10% — Presentation  
+  - 45% — Report and source code  
+- **Attendance:** 5% (bonus points)  
 
 ---
 
