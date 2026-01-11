@@ -4,7 +4,7 @@ title: Project
 permalink: /project/
 ---
 
-# Graduate Research Study: NLP Reproducibility Project
+# Graduate Research Study
 
 **Details coming soon!**
 
