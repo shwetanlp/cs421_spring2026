@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-10-14T12:30:00
+date: 2023-03-10T12:30:00
 title: Tutorial
 tldr: "N.A"
 thumbnail: /static_files/presentations/lec.jpg
