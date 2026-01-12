@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-04-07T12:30:00
+date: 2026-04-09T12:30:00
 title: Discourse, Coherence, & Coreference
 tldr: "N.A"
 thumbnail: /static_files/presentations/lec.jpg
