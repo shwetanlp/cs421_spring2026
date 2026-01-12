@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-03-31T12:30:00
+date: 2026-04-02T12:30:00
 title: Conversational Agents
 tldr: "N.A"
 thumbnail: /static_files/presentations/lec.jpg
