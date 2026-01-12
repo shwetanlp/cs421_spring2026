@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-11-25T12:30:00
-title: Research Study Presentations
+date: 2026-03-05T12:30:00
+title: Mid-Term Research Project Presentation
 tldr: "N.A"
 thumbnail: /static_files/presentations/lec.jpg
 ---
