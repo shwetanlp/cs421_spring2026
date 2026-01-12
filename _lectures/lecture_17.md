@@ -7,3 +7,4 @@ thumbnail: /static_files/presentations/lec.jpg
 ---
 **Suggested Readings:**
 - [Appendix: Word Senses and WordNet](https://web.stanford.edu/~jurafsky/slp3/I.pdf)
+- [Chapter 21: Semantic Role Labeling](https://web.stanford.edu/~jurafsky/slp3/21.pdf)
