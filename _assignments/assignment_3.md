@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2025-11-07T00:00:00+04:30
+date: 2026-04-07T00:00:00+04:30
 title: "Assignment 3: Word Sense Disambiguation"
 
 pdf: /static_files/assignments/assign_03.pdf
@@ -10,7 +10,7 @@ hide_from_announcments: false
 
 due_event: 
   type: due
-  date: 2025-11-17T23:59:00+04:30
+  date: 2026-04-16T23:59:00+04:30
   description: "Assignment 3 due"
 ---
 
