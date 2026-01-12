@@ -1,9 +1,8 @@
 ---
 type: lecture
-date: 2025-10-30T12:30:00
-title: Semantic Role Labeling
+date: 2026-03-17T12:30:00
+title: Retrieval and RAG
 tldr: "N.A"
 thumbnail: /static_files/presentations/lec.jpg
 ---
 **Suggested Readings:**
-- [Chapter 21: Semantic Role Labeling](https://web.stanford.edu/~jurafsky/slp3/21.pdf)
