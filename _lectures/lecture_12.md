@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-09-25T12:30:00
+date: 2026-02-12T12:30:00
 title: Logistic regression
 tldr: "N.A"
 thumbnail: /static_files/presentations/lec.jpg
