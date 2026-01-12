@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-09-16T12:30:00
+date: 2026-02-03T12:30:00
 title: Lexical Semantics
 tldr: "N.A"
 thumbnail: /static_files/presentations/lec.jpg
