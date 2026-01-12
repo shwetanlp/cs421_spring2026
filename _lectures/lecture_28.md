@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-11-27T12:30:00
-title: No Lecture (Thanksgiving holiday)
+date: 2026-03-03T12:30:00
+title: Mid-Term Research Project Presentation
 tldr: "N.A"
 thumbnail: /static_files/presentations/lec.jpg
 ---
