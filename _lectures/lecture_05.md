@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-09-09T12:30:00
+date: 2026-01-22T12:30:00
 title:  N grams-Language modeling
 tldr: "N.A"
 thumbnail: /static_files/presentations/lec.jpg
