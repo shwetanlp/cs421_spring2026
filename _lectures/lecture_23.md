@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-11-11T12:30:00
+date: 2026-04-16T12:30:00
 title: Natural Language Generation
 tldr: "N.A"
 thumbnail: /static_files/presentations/lec.jpg
