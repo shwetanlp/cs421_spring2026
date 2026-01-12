@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2025-10-23T00:00:00+04:30
+date: 2025-03-11T00:00:00+04:30
 title: "Project: Part 2"
 
 pdf: /static_files/assignments/assign_03.pdf
@@ -10,7 +10,7 @@ hide_from_announcments: false
 
 due_event: 
   type: due
-  date: 2025-12-05T23:59:00+04:30
+  date: 2025-05-01T23:59:00+04:30
   description: "Project Part 2 due"
 ---
 
