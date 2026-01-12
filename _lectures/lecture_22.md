@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-11-6T12:30:00
+date: 2026-04-09T12:30:00
 title: Question Answering
 tldr: "N.A"
 thumbnail: /static_files/presentations/lec.jpg
