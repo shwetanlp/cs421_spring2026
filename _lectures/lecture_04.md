@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-09-04T12:30:00
-title: Text Normalization
+date: 2026-01-27T12:30:00
+title: POS Tagging
 tldr: "N.A"
 thumbnail: /static_files/presentations/lec.jpg
 ---
