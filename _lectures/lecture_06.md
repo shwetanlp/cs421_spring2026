@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-09-11T12:30:00
-title: Sequence Labeling
+date: 2026-01-29T12:30:00
+title: Named Entity Recognition
 tldr: "N.A"
 thumbnail: /static_files/presentations/lec.jpg
 ---
