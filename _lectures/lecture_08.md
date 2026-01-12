@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-09-18T12:30:00
+date: 2023-02-05T12:30:00
 title: Vector Semantics
 tldr: "N.A"
 thumbnail: /static_files/presentations/lec.jpg
