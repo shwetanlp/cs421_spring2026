@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-10-07T12:30:00
+date: 2026-02-24T12:30:00
 title: Machine Translation
 tldr: "N.A"
 thumbnail: /static_files/presentations/lec.jpg
