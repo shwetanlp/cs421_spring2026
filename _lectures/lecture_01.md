@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-01-12T12:30:00
+date: 2026-01-13T7:30:00
 title: Introduction to Natural Language Processing
 tldr: "N.A"
 thumbnail: /static_files/presentations/lec.jpg
