@@ -1,10 +1,9 @@
 ---
 type: lecture
-date: 2025-10-21T12:30:00
-title: Syntactic Parsing
+date: 2026-03-31T12:30:00
+title: Semantic Role Labeling
 tldr: "N.A"
 thumbnail: /static_files/presentations/lec.jpg
 ---
 **Suggested Readings:**
-- [Chapter 18: Context-Free Grammars and Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/18.pdf)
-- [Chapter 19: Dependency Parsing](https://web.stanford.edu/~jurafsky/slp3/19.pdf)
+- Chapter 21: Semantic Role Labeling 
