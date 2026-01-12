@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2025-08-27T00:00:00+04:30
+date: 2026-01-13T00:00:00+04:30
 title: "Assignment 0: Python Programming"
 
 pdf: /static_files/assignments/assign_01.pdf
@@ -10,7 +10,7 @@ hide_from_announcments: false
 
 due_event: 
   type: due
-  date: 2025-09-05T23:59:00+04:30
+  date: 2026-01-26T23:59:00+04:30
   description: "Assignment 0 due"
 ---
 
