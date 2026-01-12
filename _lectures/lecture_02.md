@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-01-16T12:30:00
+date: 2026-01-15T12:30:00
 title: Text Processing- Regular Expression
 tldr: "N.A"
 thumbnail: /static_files/presentations/lec.jpg
