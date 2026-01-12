@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-10-09T12:30:00
+date: 2026-02-26T12:30:00
 title: Transformers
 tldr: "N.A"
 thumbnail: /static_files/presentations/lec.jpg
