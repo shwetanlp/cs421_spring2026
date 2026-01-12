@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-01-21T12:30:00
+date: 2026-01-20T12:30:00
 title: Word Tokenization, Normalization, and Edit Distance
 tldr: "N.A"
 thumbnail: /static_files/presentations/lec.jpg
