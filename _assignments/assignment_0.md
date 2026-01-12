@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2026-01-13T00:00:00+04:30
+date: 2026-01-14T00:00:00+04:30
 title: "Assignment 0: Python Programming"
 
 pdf: /static_files/assignments/assign_01.pdf
