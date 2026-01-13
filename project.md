@@ -180,3 +180,16 @@ Shared tasks and benchmarks are an excellent starting point because they:
 - Often include starter code  
 
 You are encouraged to explore shared task websites to review datasets and task formulations before finalizing your research project topic.
+
+## Deadlines & Milestones
+
+- **Research Team Formation Form Submission**: **January 30, 2026**  
+  _(Students must submit the  form by this date.)_
+
+- **Midterm Research Report**: **TBD**
+
+- **Midterm Research Presentations**: **March 3 & March 5, 2026**
+
+- **Final Research Report**: **TBD**
+
+- **Final Research Presentations**: **April 28 & April 30, 2026**
