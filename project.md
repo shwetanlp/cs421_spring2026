@@ -48,8 +48,6 @@ Tasks in this area examine how people express feelings, opinions, or positions i
 - https://github.com/emotion-analysis-project/SemEval2025-task11  
 - https://zeroqiaoba.github.io/MER2025-website/#introduction  
 
----
-
 ### 2. Question Answering (Q&A)
 
 These tasks focus on systems that answer questions based on internal or external knowledge.
@@ -62,8 +60,6 @@ These tasks focus on systems that answer questions based on internal or external
 **Shared Tasks:**
 - https://sites.google.com/view/mediqa2024  
 - https://www.codabench.org/competitions/3360/
-
----
 
 ### 3. Retrieval-Augmented Generation (RAG)
 
@@ -78,8 +74,6 @@ RAG systems combine search/retrieval with text generation.
 **Shared Tasks:**
 - https://ibm.github.io/mt-rag-benchmark/MTRAGEval/  
 - https://sites.google.com/view/semeval2026-task12/introduction  
-
----
 
 ### 4. Text Generation, Reasoning, and Reliability
 
@@ -96,7 +90,6 @@ This area looks at how and why models generate text—and when they make mistake
 - https://helsinki-nlp.github.io/shroom/  
 - https://llmunlearningsemeval2025.github.io/  
 
----
 
 ### 5. Summarization
 
@@ -113,7 +106,6 @@ Summarization tasks require models to shorten text while preserving key informat
 - https://peranssumm.github.io/docs/  
 - https://biolaysumm.org/  
 
----
 
 ### 6. Multimodal NLP
 
@@ -130,7 +122,6 @@ Multimodal tasks combine language with other modalities.
 - https://visualqa.org/  
 - https://nocaps.org/  
 
----
 
 ### 7. Fact Checking and Misinformation
 
@@ -146,7 +137,6 @@ These tasks focus on verifying claims and detecting false or misleading informat
 **Shared Tasks:**
 - https://checkthat.gitlab.io/clef2026/  
 
----
 
 ### 8. Social Media and Mental Health
 
@@ -161,7 +151,6 @@ These tasks use text from social platforms to study behavior, opinions, and well
 - https://sites.google.com/site/offensevalsharedtask/  
 - https://clpsych.org/shared-task/  
 
----
 
 ### 9. Conversational Systems and Dialogue
 
@@ -180,7 +169,6 @@ These tasks focus on building and analyzing systems that interact with users via
 - https://sites.google.com/view/persona-knowledge-workshop/shared-task  
 - https://dstc12.dstc.community/  
 
----
 
 ## Why Shared Tasks?
 
