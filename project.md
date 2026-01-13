@@ -8,20 +8,27 @@ permalink: /project/
 
 ## Guidelines
 
-The goal of this project is to explore different directions in **Natural Language Processing (NLP)** and identify a focused research topic for your graduate project.
-
-You should:
-
 - Explore different directions in NLP  
 - Look at existing datasets and shared tasks in those areas  
 - Get a sense of:
-  - What the task is
-  - What kind of input/output is being used
-  - How systems are evaluated
+  - What is the task  
+  - What kind of input/output is being used  
+  - How systems are evaluated  
   - What baseline models already exist  
 
-After reviewing a few directions and datasets, you will meet with an instructor to:
+## Team Formation
 
+Team formation is an important step of the project. Students are encouraged to start looking for potential partners with similar research interests.
+
+We will release a **Research Group Form** where you can:
+- Register your group if you already have one, **or**
+- Submit your research interests if you are looking for teammates  
+
+Based on the submitted interests, the instructional team will help form groups with similar research interests.
+
+**Research Group Form Link:** *Will be posted soon!*
+
+After reviewing a few directions and forming a team, you will meet with an instructor to:
 - Narrow down your topic  
 - Decide on a concrete problem statement  
 - Define the focus of your final project (e.g., modeling, analysis, comparison)
