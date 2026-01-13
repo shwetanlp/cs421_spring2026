@@ -6,7 +6,7 @@ permalink: /project/
 
 # Graduate Research Study
 
-**Details coming soon!**
+**Details will be provided on Blackboard.!**
 
 <!--
 ## Overview
